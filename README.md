@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edidiong-Luke
-- 👀 I’m interested in computational biology/bioinformatics
+- 👀 I’m interested in Computational biology/Bioinformatics
 - 🌱 I’m currently learning python,bash and machine learning
 - 💞️ I’m looking to collaborate on bioinformatics related projects
 - 📫 How to reach me edidiongluke@gmail.com
